@@ -1,0 +1,2 @@
+# liquidsoap
+Custom liquidsoap appimage
